@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+</head>
+<body>
+    <h1> My Favorite Books </h1>
+    <h3> Top 3 Books </h3>
+    <table border="1">
+        <tr>
+            <th style="padding:10px"> Book Title</th>
+            <th style="padding:10px"> Author</th>
+            <th style="padding:10px"> Year Published</th>
+        </tr>
+        <tr>
+            <td style="padding: 10px; color: blue;"><u>Rings of Fire</u></td>
+            <td style="padding: 10px;">Dr.APJ.Abdul Kalam</td>
+            <td style="padding: 10px;">2004</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; color: blue;"><u>Harry Potter and the Philosopher's Stone</u></td>
+            <td style="padding: 10px;">J.K.Rowling</td>
+            <td style="padding: 10px;">2000</td>
+        </tr>
+        <tr>
+            <td style="padding: 10px; color: blue;"><u>The Hobbit</u></td>
+            <td style="padding: 10px;">J.R.R.Tolkien</td>
+            <td style="padding: 10px;">2002</td>
+        </tr>
+        
+    </table>
+    <h1>Rings of Fire</h1>
+        <p>"Ring of Fire" focuses on the top-tier international racing circuit known as “MotoGP”, which is roughly equivalent to Formula One in the automobile world. This is an enjoyable introduction to racing, although it is a bit hard to follow.</p>
+    <h1> Harry potter and the Philosopher's stone</h1>
+    <p>The book is about 11 year old Harry Potter, who receives a letter saying that he is invited to attend Hogwarts, school of witchcraft and wizardry. He then learns that a powerful wizard and his minions are after the sorcerer's stone that will make this evil wizard immortal and undefeatable.</p>
+    <h1>The Hobbit</h1>
+    <p1>In a hole in the ground there lived a hobbit. Not a nasty, dirty, wet hole, filled with the ends of worms and an oozy smell, nor yet a dry, bare, sandy hole with nothing in it to sit down on or to eat: it was a hobbit-hole, and that means comfort.</p1>
+</body>
+</html>
